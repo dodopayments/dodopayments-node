@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.12.1 (2024-12-18)
+
+Full Changelog: [v0.12.0...v0.12.1](https://github.com/dodopayments/dodopayments-node/compare/v0.12.0...v0.12.1)
+
+### Chores
+
+* **internal:** fix some typos ([#13](https://github.com/dodopayments/dodopayments-node/issues/13)) ([d419e43](https://github.com/dodopayments/dodopayments-node/commit/d419e432fd48f5dbfe92c7da082d9bb13283e2c8))
+
 ## 0.12.0 (2024-12-17)
 
 Full Changelog: [v0.11.1...v0.12.0](https://github.com/dodopayments/dodopayments-node/compare/v0.11.1...v0.12.0)

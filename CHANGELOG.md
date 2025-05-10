@@ -1,5 +1,18 @@
 # Changelog
 
+## 1.23.0 (2025-05-10)
+
+Full Changelog: [v1.22.0...v1.23.0](https://github.com/dodopayments/dodopayments-node/compare/v1.22.0...v1.23.0)
+
+### Features
+
+* **mcp:** support dynamically discovering and invoking tools for APIs with many endpoints ([ed124f7](https://github.com/dodopayments/dodopayments-node/commit/ed124f74107ad4352ae2bd88b4c56d9d65d668d2))
+
+
+### Chores
+
+* **build:** automatically build subpackages if present ([a324a69](https://github.com/dodopayments/dodopayments-node/commit/a324a693d1c3ceaabacf80970b203315c3db3259))
+
 ## 1.22.0 (2025-05-09)
 
 Full Changelog: [v1.20.0...v1.22.0](https://github.com/dodopayments/dodopayments-node/compare/v1.20.0...v1.22.0)

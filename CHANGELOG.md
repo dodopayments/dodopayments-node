@@ -1,5 +1,23 @@
 # Changelog
 
+## 1.26.0 (2025-05-24)
+
+Full Changelog: [v1.25.0...v1.26.0](https://github.com/dodopayments/dodopayments-node/compare/v1.25.0...v1.26.0)
+
+### Features
+
+* **mcp:** support initializing the server with an "environment" ([fab9bf1](https://github.com/dodopayments/dodopayments-node/commit/fab9bf17e50c8dbfe05e07a2c345e045a3b8d320))
+
+
+### Bug Fixes
+
+* **mcp:** fix cursor schema transformation issue with recursive references ([cae8015](https://github.com/dodopayments/dodopayments-node/commit/cae8015ffb291ec60a02fa65eb8a1fced3db70b7))
+
+
+### Chores
+
+* **docs:** grammar improvements ([cea6387](https://github.com/dodopayments/dodopayments-node/commit/cea6387d2d4ebace9551bd1565d6c9097c50a2a4))
+
 ## 1.25.0 (2025-05-17)
 
 Full Changelog: [v1.22.0...v1.25.0](https://github.com/dodopayments/dodopayments-node/compare/v1.22.0...v1.25.0)

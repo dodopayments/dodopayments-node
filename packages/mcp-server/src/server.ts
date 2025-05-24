@@ -19,7 +19,7 @@ export { endpoints } from './tools';
 export const server = new McpServer(
   {
     name: 'dodopayments_api',
-    version: '1.25.0',
+    version: '1.26.0',
   },
   {
     capabilities: {
@@ -43,7 +43,9 @@ export function init(params: {
 
   const endpointMap = Object.fromEntries(providedEndpoints.map((endpoint) => [endpoint.tool.name, endpoint]));
 
-  const client = params.client || new DodoPayments({});
+  const client =
+    params.client ||
+    new DodoPayments({ environment: (readEnv('DODO_PAYMENTS_ENVIRONMENT') || undefined) as any });
 
   server.setRequestHandler(ListToolsRequestSchema, async () => {
     return {

@@ -1,5 +1,23 @@
 # Changelog
 
+## 1.35.0 (2025-06-28)
+
+Full Changelog: [v1.34.2...v1.35.0](https://github.com/dodopayments/dodopayments-node/compare/v1.34.2...v1.35.0)
+
+### Features
+
+* **mcp:** fallback for void-typed methods ([e954db2](https://github.com/dodopayments/dodopayments-node/commit/e954db2bdc9d8be57f8fecf979fb60775e395f54))
+
+
+### Bug Fixes
+
+* **ci:** release-doctor — report correct token name ([66e853d](https://github.com/dodopayments/dodopayments-node/commit/66e853dc3e35e516357d0a0a05c7829806d321a7))
+
+
+### Chores
+
+* **ci:** only run for pushes and fork pull requests ([023e8a4](https://github.com/dodopayments/dodopayments-node/commit/023e8a41823d0f398cc8132fefe921996c163252))
+
 ## 1.34.2 (2025-06-24)
 
 Full Changelog: [v1.34.1...v1.34.2](https://github.com/dodopayments/dodopayments-node/compare/v1.34.1...v1.34.2)

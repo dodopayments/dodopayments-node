@@ -1,5 +1,18 @@
 # Changelog
 
+## 1.42.1 (2025-07-18)
+
+Full Changelog: [v1.42.0...v1.42.1](https://github.com/dodopayments/dodopayments-node/compare/v1.42.0...v1.42.1)
+
+### Bug Fixes
+
+* **mcp:** include required section for top-level properties and support naming transformations ([55a4476](https://github.com/dodopayments/dodopayments-node/commit/55a4476b4d3e24a2201d019779859ac41891bc99))
+
+
+### Chores
+
+* **mcp:** formatting ([9232c27](https://github.com/dodopayments/dodopayments-node/commit/9232c27b944cc70912475714d0893db427093da2))
+
 ## 1.42.0 (2025-07-16)
 
 Full Changelog: [v1.39.0...v1.42.0](https://github.com/dodopayments/dodopayments-node/compare/v1.39.0...v1.42.0)

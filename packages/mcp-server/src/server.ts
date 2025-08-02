@@ -26,9 +26,9 @@ export { endpoints } from './tools';
 export const server = new McpServer(
   {
     name: 'dodopayments_api',
-    version: '1.43.1',
+    version: '1.44.0',
   },
-  { capabilities: { tools: {} } },
+  { capabilities: { tools: {}, logging: {} } },
 );
 
 /**
@@ -122,7 +122,7 @@ export async function executeHandler(
   compatibilityOptions?: Partial<ClientCapabilities>,
 ) {
   const options = { ...defaultClientCapabilities, ...compatibilityOptions };
-  if (options.validJson && args) {
+  if (!options.validJson && args) {
     args = parseEmbeddedJSON(args, tool.inputSchema);
   }
   return await handler(client, args || {});

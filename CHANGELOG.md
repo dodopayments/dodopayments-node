@@ -1,5 +1,15 @@
 # Changelog
 
+## 1.49.1 (2025-08-16)
+
+Full Changelog: [v1.49.0...v1.49.1](https://github.com/dodopayments/dodopayments-node/compare/v1.49.0...v1.49.1)
+
+### Chores
+
+* **internal:** codegen related update ([cf27f35](https://github.com/dodopayments/dodopayments-node/commit/cf27f35ae4962cf8518c987adecbc299665831b7))
+* **internal:** formatting change ([a205553](https://github.com/dodopayments/dodopayments-node/commit/a205553b4b08e01d2baef2c4a2bcc17182488220))
+* **mcp:** update README ([a47e159](https://github.com/dodopayments/dodopayments-node/commit/a47e1595012064cbfea21503cc648782dd0a5233))
+
 ## 1.49.0 (2025-08-13)
 
 Full Changelog: [v1.47.0...v1.49.0](https://github.com/dodopayments/dodopayments-node/compare/v1.47.0...v1.49.0)

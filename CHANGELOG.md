@@ -1,5 +1,16 @@
 # Changelog
 
+## 1.52.6 (2025-09-06)
+
+Full Changelog: [v1.52.5...v1.52.6](https://github.com/dodopayments/dodopayments-node/compare/v1.52.5...v1.52.6)
+
+### Chores
+
+* ci build action ([5c198c5](https://github.com/dodopayments/dodopayments-node/commit/5c198c5b04e10cc2d6fe72b66c03941ead3d3aea))
+* **internal:** codegen related update ([ea563ba](https://github.com/dodopayments/dodopayments-node/commit/ea563bafefc9e10b56bfb9b4bcef573a2c23eb5b))
+* **internal:** codegen related update ([6f372f8](https://github.com/dodopayments/dodopayments-node/commit/6f372f832f2cda7b3140e7d9162701f562a3ecb6))
+* **internal:** codegen related update ([7f0b0e5](https://github.com/dodopayments/dodopayments-node/commit/7f0b0e5c29d6d4143ab6bf8f511f028719155d48))
+
 ## 1.52.5 (2025-09-04)
 
 Full Changelog: [v1.52.3...v1.52.5](https://github.com/dodopayments/dodopayments-node/compare/v1.52.3...v1.52.5)
